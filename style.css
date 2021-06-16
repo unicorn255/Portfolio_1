@@ -1,2 +1,44 @@
 
 body {background-color:aquamarine;}
+{text-align: center;}
+h1 {color:black}
+h2 {color: blue;}
+div>ul>li>a{font-size:30px;color: black;}
+div# Lebenslauf{font-size:30px;}
+div# Portfolio{font-size:30px;}
+div# Skills{font-size:30px;}
+div# Kontakt{font-size:30px;margin-botton:500px;}
+/* Weiterbildung WebDevelopment DCI */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 54.35%;
+
+font-family: Sans-Serif;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 21px;
+
+color: # 5941EA;
+
+border: 1px solid # CFCFCF;
+/* Weiterbildung WebDevelopment DCI */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 54.35%;
+
+font-family: Sans.Serif;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 21px;
+
+color: # 4D4D4D
+
+border: 1px solid # CFCFCF;
