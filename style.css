@@ -1,16 +1,18 @@
 
-body {background-color:aquamarine;
-text-align: center;}
+body {background-color:aquamarine;margin-left: 36.2em;margin-right: 36.2em;
+text-align: center;size: 10rem;}
+.div1 {border: 0.3em solid blue;height:60em;margin:0em;}
 h1 {color:black}
 h2 {color: blue;}
 div>ul>li>a{font-size:1em;color: black;}
-div# Lebenslauf{font-size:1empx;}
-div# Portfolio{font-size:1empx;}
-div# Skills{font-size:1em;}
-div# Kontakt{font-size:1em;margin: botton 16.88em;}
+div#Lebenslauf{font-size:1em;}
+div#Portfolio{font-size:1em;}
+div#Skills{font-size:1em;}
+div#Kontakt{font-size:1em;margin: botton 16.88em;}
 /* Weiterbildung WebDevelopment DCI */
-
-position: absolute;
+img {width: 10%;display: block;}
+#img {position: absolute;}
+{position: absolute;
 left: 0%;
 right: 0%;
 top: 0%;
@@ -22,23 +24,4 @@ font-weight: bold;
 font-size: 0.6em;
 line-height: 0.7em;
 
-color: # 5941EA;
-
-border: 1px solid # CFCFCF;
-/* Weiterbildung WebDevelopment DCI */
-
-position: absolute;
-left: 0%;
-right: 0%;
-top: 0%;
-bottom: 54.35%;
-
-font-family: Sans.Serif;
-font-style: normal;
-font-weight: bold;
-font-size: 0.62m;
-line-height: 0.7em;
-
-color: # 4D4D4D
-
-border: 1px solid # CFCFCF;
+color: # 5941EA;}
