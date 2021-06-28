@@ -1,5 +1,5 @@
 
-body {background-color:aquamarine;margin-left: 36.2em;margin-right: 36.2em;
+body {background-color:aquamarine;
 text-align: center;size: 10rem;}
 .div1 {border: 0.3em solid blue;height:60em;margin:0em;}
 h1 {color:black}
@@ -10,18 +10,11 @@ div#Portfolio{font-size:1em;}
 div#Skills{font-size:1em;}
 div#Kontakt{font-size:1em;margin: botton 16.88em;}
 /* Weiterbildung WebDevelopment DCI */
-img {width: 10%;display: block;}
-#img {position: absolute;}
-{position: absolute;
-left: 0%;
-right: 0%;
-top: 0%;
-bottom: 54.35%;
+img {width: 60vw;
+    height: 60vw;
+    display: block;
+    margin:0 auto;
+    border-radius: 50%;
+    object-fit: cover;
+}
 
-font-family: Sans-Serif;
-font-style: normal;
-font-weight: bold;
-font-size: 0.6em;
-line-height: 0.7em;
-
-color: # 5941EA;}
