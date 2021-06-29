@@ -5,10 +5,10 @@ text-align: center;size: 10rem;}
 h1 {color:black}
 h2 {color: blue;}
 div>ul>li>a{font-size:1em;color: black;}
-div#Lebenslauf{font-size:1em;}
-div#Portfolio{font-size:1em;}
-div#Skills{font-size:1em;}
-div#Kontakt{font-size:1em;margin: botton 16.88em;}
+div#Lebenslauf{font-size:2em;}
+div#Portfolio{font-size:2em;}
+div#Skills{font-size:2em;}
+div#Kontakt{font-size:2em;margin: bottom 16.88em;}
 /* Weiterbildung WebDevelopment DCI */
 img {width: 60vw;
     height: 60vw;
