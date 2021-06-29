@@ -1,7 +1,7 @@
 
 body {background-color:aquamarine;
 text-align: center;size: 10rem;}
-.div1 {border: 0.3em solid blue;height:60em;margin:0em;}
+.div1 {border: 0.3em solid blue;height:120em;margin:0em;}
 h1 {color:black}
 h2 {color: blue;}
 div>ul>li>a{font-size:1em;color: black;}
@@ -37,8 +37,10 @@ body{
 	height: 100%;
 	padding: 20px 0;
 	transition: all 0.5s ease;
+    object-fit: cover;
 }
 .wrapper .sidebar .profile{
 	margin-bottom: 30px;
-	text-align: center;
+	text-align: center;object-fit: cover;
+
 }
