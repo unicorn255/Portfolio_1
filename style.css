@@ -1,6 +1,9 @@
 
-body {background-color:aquamarine;font-family: 'Castoro', serif;
-text-align: center;size: 10rem;}
+body {background-color:aquamarine;
+	background: #f5f6fa;
+	font-family: 'Castoro', serif;
+	text-align: center;size: 10rem;}
+
 .div1 {border: 0.3em solid blue;height:120em;margin:0em;}
 h1 {color:black}
 h2 {color: blue;}
@@ -10,8 +13,8 @@ div#Portfolio{font-size:2em;}
 div#Skills{font-size:2em;}
 div#Kontakt{font-size:2em;margin: bottom 16.88em;}
 /* Weiterbildung WebDevelopment DCI */
-img {width: 60vw;
-    height: 60vw;
+img {width:25vw;
+    height: 25vw;
     display: block;
     margin:0 auto;
     border-radius: 50%;
@@ -25,9 +28,8 @@ img {width: 60vw;
 	box-sizing: border-box;
 	font-family: 'Open Sans', sans-serif;
 }
-body{
-	background: #f5f6fa;
-}
+
+	
 .wrapper .sidebar{
 	background: rgb(5, 68, 104);
 	position: fixed;
@@ -44,4 +46,8 @@ body{
 	text-align: center;object-fit: cover;
 
 }
+.top_navbar{margin-top: 0;}
+.hamburger{}
 a i {font-size: 2em;color: chartreuse;}
+
+
