@@ -1,19 +1,37 @@
 
-body {background-color:aquamarine;
+body {
+	background-color:aquamarine;
 	background: #f5f6fa;
 	font-family: 'Castoro', serif;
-	text-align: center;size: 10rem;}
+	text-align: center;size: 10rem;
+}
 
-.div1 {border: 0.3em solid blue;height:120em;margin:0em;}
+.div1 {
+	border: 0.3em solid blue;
+	height:120em;
+	margin:0em;
+}
 h1 {color:black}
 h2 {color: blue;}
-div>ul>li>a{font-size:1em;color: black;}
-div#Lebenslauf{font-size:2em;}
-div#Portfolio{font-size:2em;}
-div#Skills{font-size:2em;}
-div#Kontakt{font-size:2em;margin: bottom 16.88em;}
+div>ul>li>a{
+	font-size:1em;
+	color: black;
+}
+div#Lebenslauf{
+	font-size:2em;
+}
+div#Portfolio{
+	font-size:2em;
+}
+div#Skills{
+	font-size:2em;
+}
+div#Kontakt{
+	font-size:2em;
+	margin: bottom 16.88em;}
 /* Weiterbildung WebDevelopment DCI */
-img {width:25vw;
+img {
+	width:25vw;
     height: 25vw;
     display: block;
     margin:0 auto;
@@ -43,11 +61,28 @@ img {width:25vw;
 }
 .wrapper .sidebar .profile{
 	margin-bottom: 30px;
-	text-align: center;object-fit: cover;
-
+	text-align: center;
+	object-fit: cover;
 }
-.top_navbar{margin-top: 0;}
-.hamburger{}
-a i {font-size: 2em;color: chartreuse;}
+.top_navbar{
+	margin-top: 0;
+}
+.hamburger{
+	font-display:unset;
+}
+a i {
+	font-size: 2em;
+	color: chartreuse;}
+
+@media screen and
+(min-width: 500px),
+(max-width: 1440px){
+	nav ul {
+		display: flex;
+		justify-content: space-around;}
+}
+
+
+	
 
 
